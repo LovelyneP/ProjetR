@@ -1,0 +1,14 @@
+---
+title: "Test1"
+author: "First Author"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## Introduction au Rapport
+Cette image va illustrer mon texte donc prete attention
+
+![Image d'application avec version 2.45.1](./images/Gemini.png)   
